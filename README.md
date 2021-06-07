@@ -1,1 +1,1 @@
-# The Polaris Website
+# Polaris Website
